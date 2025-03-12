@@ -1,2 +1,2 @@
-# Heavy-Duty-Omega
- Heavy Duty Omega code 
+# Omega
+Omega software
