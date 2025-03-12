@@ -5,8 +5,8 @@ Ethernet RIO Target = "192.168.0.2"
 Ethernet RIO Target 2 = "0.0.0.0"
 
 [My Computer]
-My Computer = "192.168.40.1"
+My Computer = "192.168.200.1"
 
 [RT CompactRIO Target]
-RT CompactRIO Target = "169.254.0.13"
+RT CompactRIO Target = "169.254.0.7"
 
