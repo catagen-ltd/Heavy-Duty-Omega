@@ -185,12 +185,10 @@
 			<Item Name="Ping.vi" Type="VI" URL="../Windows/SubVIs Win/Ping.vi"/>
 			<Item Name="Resp.vi" Type="VI" URL="../Windows/SubVIs Win/Resp.vi"/>
 			<Item Name="SMS.vi" Type="VI" URL="../Windows/SubVIs Win/SMSAlerts/SMS.vi"/>
-			<Item Name="SMSAlert.vi" Type="VI" URL="../Windows/SubVIs Win/SMS_Alert/SMSAlert.vi"/>
-			<Item Name="SMSAlerts.dll" Type="Document" URL="../Windows/SubVIs Win/SMSAlerts/SMSAlerts.dll"/>
-			<Item Name="SMSmk3.dll" Type="Document" URL="../Windows/SubVIs Win/SMS_Alert/SMSmk3.dll"/>
+			<Item Name="SMSAlerts.dll" Type="Document" URL="../../Daimler/Windows/SubVIs Win/SMSAlerts/SMSAlerts.dll"/>
 			<Item Name="String input.ctl" Type="VI" URL="../Windows/Buttons/String input.ctl"/>
 			<Item Name="Table check.vi" Type="VI" URL="../Windows/SubVIs Win/Table check.vi"/>
-			<Item Name="Test Complete.vi" Type="VI" URL="../Windows/SubVIs Win/SMS_Alert/Test Complete.vi"/>
+			<Item Name="Test Complete Core.vi" Type="VI" URL="../Windows/SubVIs Win/SMS_Alert/Test Complete Core.vi"/>
 			<Item Name="TestListen.vi" Type="VI" URL="../Windows/SubVIs Win/TestListen.vi"/>
 			<Item Name="TestS.vi" Type="VI" URL="../Windows/SubVIs Win/TestS.vi"/>
 			<Item Name="Time column check.vi" Type="VI" URL="../Windows/SubVIs Win/Time column check.vi"/>
